@@ -2,4 +2,4 @@
 
 Slack history search
 
-front-end: `npm start`
+dev server: `npm start` or `yarn start`
