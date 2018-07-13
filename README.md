@@ -2,4 +2,4 @@
 
 Slack history search
 
-dev server: `npm start` or `yarn start`
+dev server: `npm start`
